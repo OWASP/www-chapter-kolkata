@@ -5,7 +5,7 @@ title: OWASP Kolkata
 site_side: true
 tags: Kolkata
 level: 3
-region: India
+region: Asia
 currency: INR
 
 ---
