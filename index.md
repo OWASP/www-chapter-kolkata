@@ -13,7 +13,8 @@ currency: INR
 
 OWASP Kolkata
 -------------
-Welcome to the London chapter homepage. The chapter board is <a href="mailto:krishnendu.paul@owasp.org">Krishnendu Paul</a>, <a href="mailto:jitendra.adhikari@owasp.org">Jitendra Adhikari</a>.
+Welcome to the OWASP #Kolkata chapter homepage.
+
 
 Meeting Sponsors
 ----------------
