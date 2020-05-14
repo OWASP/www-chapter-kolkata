@@ -36,6 +36,12 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 Everyone is welcome and encouraged to participate. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ## Local News
-- Location will be shared soon
-- Everyone is welcome to join us at our chapter meetings.
+Hello Sillys, hope you are all keeping fine in this difficult times.
+Well, as mentioned earlier, we bring you an online CTF on May 23, 2020, at 1pm IST. For this we have tied up with Security Innovation.
+The spoils:
+* Price money worth upto INR 10K to be won!
+* Swag boxes full of goodies!
+* Certificates to all participants.
+Please visit https://web.securityinnovation.com/kolkata-nodejs-sillycon to register your participation.
+Thanks.
 
