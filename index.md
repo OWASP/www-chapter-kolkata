@@ -42,6 +42,6 @@ The spoils:
 * Price money worth upto INR 10K to be won!
 * Swag boxes full of goodies!
 * Certificates to all participants.
-Please visit https://web.securityinnovation.com/kolkata-nodejs-sillycon to register your participation.
-Thanks.
+Please visit <a href="https://web.securityinnovation.com/kolkata-nodejs-sillycon">To Register</a> your participation.
+
 
