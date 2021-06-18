@@ -13,5 +13,6 @@ We will be looking for some exciting events which are helpful for others.
 If you have suggestion then definitely email us.
 
 tanmay.bhattacharjee@owasp.org
+souvik.roy@owasp.org
 
 check linkedin and contact there if you feel free.
