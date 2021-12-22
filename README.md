@@ -18,3 +18,4 @@ souvik.roy@owasp.org
 check linkedin and contact there if you feel free.
 
 
+![](assets/images/OWASP_KOLKATA_CHAPTER_LOGO.png)
