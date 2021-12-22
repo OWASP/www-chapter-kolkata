@@ -18,6 +18,6 @@ souvik.roy@owasp.org
 check linkedin and contact there if you feel free.
 
 <a href="https://www.canva.com/design/DAEzTkGa0-8/watch">
-   <img src="https://www.canva.com/design/DAEzTkGa0-8/watch" align="left" height="48" width="48" >
+   <img src="https://www.canva.com/design/DAEzTkGa0-8/watch" align="left" height="70" width="70" >
    </a>
 
