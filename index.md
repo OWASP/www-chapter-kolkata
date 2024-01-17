@@ -6,6 +6,7 @@ site_side: true
 tags: Kolkata
 level: 3
 region: Asia
+country: India
 meetup-group: owasp-kolkata
 currency: INR
 
