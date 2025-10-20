@@ -1,0 +1,25 @@
+currency: INR
+leaders:
+  - name: Souvik Roy
+    email: souvik.roy@owasp.org
+    github: lethalcyanide
+  - name: Arindam Halder
+    email: arindam.halder@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: West Bengal
+  city: Kolkata
+  latitude: 22.5726459
+  longitude: 88.3638953
+meetup_group: owasp-kolkata
+name: OWASP Kolkata
+repositories:
+  - name: www-chapter-kolkata
+    url: https://github.com/OWASP/www-chapter-kolkata
+    description: OWASP Foundation Web Repository
+tags:
+  - Kolkata
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-kolkata
